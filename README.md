@@ -4,5 +4,4 @@
 
 <a href="#" style="padding: 20%;"><img width="50px" src="te.png" alt="" srcset=""></a>
 <a href="#" style="padding: 20%;"><img width="50px"  src="tw.png" alt="" srcset=""></a>
-<a href="#" style="padding: 20%;"><img src="instagram.png"  width="50px" alt="" srcset=""></a>
-<a href="#" style="padding: 20%;"><img src="youtube.png"  width="50px" alt="" srcset=""></a>
+
