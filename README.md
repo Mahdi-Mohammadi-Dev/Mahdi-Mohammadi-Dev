@@ -1,4 +1,4 @@
-<H1>Mahdi Mohammadi &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  卍☼𓃬</H1> 
+<H1>Mahdi Mohammadi <a align="right"> 卍☼𓃬 </a></H1> 
 <a href="#" style="padding: 20%;"><img width="50px" src="te.png" alt="" srcset=""></a>
 <a href="#" style="padding: 20%;"><img width="50px"  src="tw.png" alt="" srcset=""></a>
 <h4>Known as: DevMahdi</h4> 
